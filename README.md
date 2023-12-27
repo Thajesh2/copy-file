@@ -20,8 +20,8 @@ End og the program
 ## PROGRAM:
 ```
 #to copy a file
-#developed by: M GAYATHIRI ROSHINI
-#register number:23006823
+#developed by: thajesh k
+#register number:23004042
 
 
 f=open("record file.txt","r")
